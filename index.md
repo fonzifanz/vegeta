@@ -1,6 +1,6 @@
 ---
 layout: default
-title: vegeta
+title: Main Page
 ---
 # [John Cena](/blog/john-cena.html) - *Written on December 15, 2025*
 
