@@ -1,0 +1,16 @@
+---
+layout: default
+title: Myself
+---
+# <center> Myself </center>  
+
+Now for myself besides school and family, I am doing good. I am now lightly suffering from insomnia (before it was worse), I am starting to develop better health, and I no longer see myself listening to audios to help me sleep (well, except for ambient). I have been getting better thanks to my friends and family, especially now for my psychologist. I have been off the Internet here and there because mostly I am just playing my favorite games, so that will explain why. But it helps, you know? However, as I mentioned by my psychologist in this document, I do want to say something about it. My psychologist has recently moved schools, without me knowing. And when I got told by one of my high school teachers, I heard that something stabbed me. It is sad that she moved schools like I wanted to cry. I have wanted to see her again since August, but I do not know where she is. I just hope she is doing well wherever she is, and I will keep her promise to me to be good. She has played a key role in helping me through my darkest times and discovering my autism for me. I am glad during our time I showed my appreciation to her, whether it be the little gifts I got her or me asking her if I can get a hug when I needed it. So, I hope one day we can meet again. Now besides my psychologist, my health has been decent. I say that because now I am getting better at taking care of myself as I am starting to control the food I feed myself. I am known to be a person who loves food, and I do. As much as I do, I will have to limit how much I eat. That goes as well with the type of food. Besides my health, I am good emotionally, but there's moments here and there where it feels too much in me that I want to let it out. I have had that for the past 3-4 years, but I hardly see myself having the need now. I know it sounds like I bottled it up, but rest assured it did not. As for myself, I am starting to wear glasses to help protect my eyes from strain. This is because I do most of my work on the computer, having that can help when I need it for extended periods of time. Especially for the phone too, it helps a lot with preventing strain.  
+
+If you have not seen me around as much anymore, I am sorry, and it is because I have just been busy with life since August. I sometimes miss my younger years (I do cherish them) and wish they could have lasted a little longer. As of recent times, I am starting to put myself out there again as I do want to meet new people again. It is a pleasure to bring new people into my life and have the best time with them. It is going well, but sometimes not everything goes well. And an important thing for me is I am starting to grow out of my introverted shell and now I am mixed. This is because I am starting to put myself out there, it is really because I now feel comfortable being in public for extended periods of time and will get better at it. Overall, I have been starting to focus on improving myself when I can set time to do so.  
+
+The world sometimes can get loud, but everything will be okay. And I will be fine too.  
+
+## [Go to the next page](./change-and-come.html)  
+## [Or go to the previous page](./family.html)  
+
+
