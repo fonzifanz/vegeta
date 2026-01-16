@@ -2,7 +2,6 @@
 layout: default
 title: Main Page
 ---
-[Testing](/.well-known/discord)
 # *13 New Blog Posts since the last update!*  
 
 # [Latest Post: The Fall Off](/blog/the-fall-off.html) - *Written on January 15, 2026*
