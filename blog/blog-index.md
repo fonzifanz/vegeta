@@ -42,3 +42,16 @@ description: View all blog posts here
 ## [fonzi update 2 - November 2025](./fonzi-update-nov-2025.html) - *Written on November 14, 2025*
 ## [Thank You, June 2021](./thank-you-june-2021.html) - *Written on December 10, 2025*
 ## [John Cena](./john-cena.html) - *Written on December 15, 2025*
+## [Kai Cenat](./kai-cenat.html) - *Written on December 17, 2025*
+## [Lamarr Wilson](./lamarr-wilson.html) - *Written on December 19th, 2025*
+## [Looking to Return](./looking-to-return.html) - *Written on December 20, 2025*
+## [Airports](./airports.html) - *Written on December 27, 2025*
+## [Do I Matter](./do-i-matter.html) - *Written on December 29, 2025*
+## [Screw AI](./screw-ai.html) - *Written on December 31, 2025*
+## [20 Years Old](./20-years.html) - *Written on January 3, 2026*
+## [My Anime Journey](./my-anime-journey.html) - *Written on January 7, 2026*
+## [About My Psychologist](./about-my-psychologist.html) - *Written on January 8, 2026*
+## [Chainsaw Man](./chainsaw-man.html) - *Written on January 11, 2026*
+## [Self Improvement](./self-improvement.html) - *Published on January 14, 2026*
+## [Growing Up](./growing-up.html) - *Written on January 14, 2026*
+## [The Fall Off](./the-fall-off.html) - *Written on January 15, 2026*

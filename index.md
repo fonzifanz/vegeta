@@ -2,18 +2,20 @@
 layout: default
 title: Main Page
 ---
-# [John Cena](/blog/john-cena.html) - *Written on December 15, 2025*
+# *13 New Blog Posts since the last update!*  
+
+# [Latest Post: The Fall Off](/blog/the-fall-off.html) - *Written on January 15, 2026*
 
 ## [Read my blog posts here!](/blog/blog-index.html)  
-## [Find me online here!](https://guns.lol/dishonoredgoat)  
+## [Find me online here!](https://guns.lol/fonzifanz)  
 ---
 ### About Me!
 * Name/Nickname: Alonzo (fonzi)
 * Pronouns: He/Him
 * Birthdate: January 3, 2006
-* Age: 19 years old
+* Age: 20 years old
 * Location: California, USA
-* Occupation: Student at California State University, studying Computer Technology with a focus on IT.
+* Occupation: Student at California State University, studying Computer Technology
 * Languages Spoken: English and Spanish (Fluent in English, conversational in Spanish)
 
 ---
@@ -26,11 +28,11 @@ I am born autistic and I have a passion for living the life God sacrificed for m
 **My Hobbies & Interests:**  
 * Listening to music (lots of it)
 * Exploring the outside world (nature walks)
-* Playing video games (especially RPGs and adventure games)
-* Learning Technology and programming (I am currently learning Python and web development)
-* Drawing (I am not very good at it, but I enjoy it. I like to draw characters from my favorite video games and anime)
+* Playing video games (especially immersive and adventure games)
+* Learning Technology and programming (I am currently learning Java and web development)
+* Drawing (I am not very good at it, but I enjoy it. I like to draw characters from my favorite video games and media)
 * Spending time with family and friends (I value quality time and creating memories with loved ones)
-* Watching anime (not a lot, but I enjoy it when I do.)
+* Watching anime (I started my anime journey as of the 16th of January this year)
 
 ---
 
@@ -42,7 +44,7 @@ I also hope to find a supportive community where I can learn and grow both perso
 
 **My Favorites:**  
 * Favorite video game/series: "Kingdom Hearts" (especially III) because of its unique blend of Disney and Final Fantasy characters and worlds.
-* Favorite anime: "Plastic Memories" because of its emotional depth and exploration of human relationships.
+* Favorite anime: "Plastic Memories" because of its emotional depth and exploration of human relationships and "Chainsaw Man" because of its intense action and unique storyline.
 * Favorite music genre: Regional Mexican, especially Banda and Norteño, because of its rich cultural roots and storytelling.
 * One of My favorite songs: "Linger" by The Cranberries because of its haunting melody and emotional lyrics.
 * Favorite book: "The Alchemist" by Paulo Coelho, as it inspires me to follow my dreams and listen to my heart.
