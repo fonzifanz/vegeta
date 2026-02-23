@@ -2,9 +2,8 @@
 layout: default
 title: Main Page
 ---
-# *13 New Blog Posts since the last update!*  
 
-# [Latest Post: The Fall Off](/blog/the-fall-off.html) - *Written on January 15, 2026*
+# [Latest Post: fonzi update #2](/blog/fonzi-update-2.html) - *Written on February 23, 2026*
 
 ## [Read my blog posts here!](/blog/blog-index.html)  
 ## [Find me online here!](https://guns.lol/fonzifanz)  

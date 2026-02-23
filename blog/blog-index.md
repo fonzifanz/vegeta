@@ -55,3 +55,4 @@ description: View all blog posts here
 ## [Self Improvement](./self-improvement.html) - *Published on January 14, 2026*
 ## [Growing Up](./growing-up.html) - *Written on January 14, 2026*
 ## [The Fall Off](./the-fall-off.html) - *Written on January 15, 2026*
+## [fonzi update #2](./fonzi-update-2.html) - *Written on February 23, 2026*
