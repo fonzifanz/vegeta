@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fonzi update #2
+title: fonzi update 2
 ---
 <h3> fonzi update #2 </h3>
 
