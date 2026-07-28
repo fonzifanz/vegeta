@@ -14,7 +14,6 @@ title: Main Page
 * Birthdate: January 3, 2006
 * Age: 20 years old
 * Location: California, USA
-* Occupation: Student at California State University, studying Computer Technology
 * Languages Spoken: English and Spanish (Fluent in English, conversational in Spanish)
 
 ---
@@ -36,7 +35,7 @@ I am born autistic and I have a passion for living the life God sacrificed for m
 ---
 
 **What I'm Looking For Connecting with Others:**  
-I'm looking to connect with others who share similar interests, engage in meaningful conversations, and maybe even collaborate on projects or share knowledge about technology and programming.  
+I'm looking to connect with others who share similar interests, engage in meaningful conversations, and maybe even collaborate on projects or share knowledge about technology.  
 I also hope to find a supportive community where I can learn and grow both personally and professionally.
 
 ---
@@ -44,7 +43,7 @@ I also hope to find a supportive community where I can learn and grow both perso
 **My Favorites:**  
 * Favorite video game/series: "Kingdom Hearts" (especially III) because of its unique blend of Disney and Final Fantasy characters and worlds.
 * Favorite anime: "Plastic Memories" because of its emotional depth and exploration of human relationships and "Chainsaw Man" because of its intense action and unique storyline.
-* Favorite music genre: Regional Mexican, especially Banda and Norteño, because of its rich cultural roots and storytelling.
+* Favorite music genre: Regional Mexican, especially Banda and Norteno, because of its rich cultural roots and storytelling.
 * One of My favorite songs: "Linger" by The Cranberries because of its haunting melody and emotional lyrics.
 * Favorite book: "The Alchemist" by Paulo Coelho, as it inspires me to follow my dreams and listen to my heart.
 * Favorite quote: "Simply Simplistic" by my friend because it reminds me to appreciate the simple things in life and not overcomplicate matters.
@@ -61,7 +60,7 @@ I also hope to find a supportive community where I can learn and grow both perso
 ---
 
 **Closing off with a Fun Fact:**  
-A thing or two that represents who I am is that I hold close what I love. Because it’s all about caring.
+A thing or two that represents who I am is that I hold close what I love. Because it is all about caring.
 
 
 
