@@ -3,7 +3,7 @@ layout: default
 title: Main Page
 ---
 
-# [Latest Post: I left roblox](/blog/i-left-roblox.md) - *Written on August 5, 2026*
+# [Latest Post: I left roblox](/blog/i-left-roblox.html) - *Written on August 5, 2026*
 
 ## [Read my blog posts here!](/blog/blog-index.html)  
 ## [Find me online here!](https://guns.lol/fonzifanz)  
