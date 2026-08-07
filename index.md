@@ -3,7 +3,7 @@ layout: default
 title: Main Page
 ---
 
-# [Latest Post: fonzi update #2](/blog/fonzi-update-2.html) - *Written on February 23, 2026*
+# [Latest Post: I left roblox](/blog/i-left-roblox.md) - *Written on August 5, 2026*
 
 ## [Read my blog posts here!](/blog/blog-index.html)  
 ## [Find me online here!](https://guns.lol/fonzifanz)  
@@ -14,6 +14,7 @@ title: Main Page
 * Birthdate: January 3, 2006
 * Age: 20 years old
 * Location: California, USA
+* Where I'm from: Mexico
 * Languages Spoken: English and Spanish (Fluent in English, conversational in Spanish)
 
 ---
@@ -27,10 +28,10 @@ I am born autistic and I have a passion for living the life God sacrificed for m
 * Listening to music (lots of it)
 * Exploring the outside world (nature walks)
 * Playing video games (especially immersive and adventure games)
-* Learning Technology and programming (I am currently learning Java and web development)
-* Drawing (I am not very good at it, but I enjoy it. I like to draw characters from my favorite video games and media)
+* Learning Technology (I am currently learning Minecraft server management!)
+* Drawing (I am not very good at it, but I enjoy it. I like to draw characters from my favorite video games and media. It's been a good while I picked up either the pencil or tablet)
 * Spending time with family and friends (I value quality time and creating memories with loved ones)
-* Watching anime (I started my anime journey as of the 16th of January this year)
+* Watching anime (I started my anime journey as of January 16, 2026)
 
 ---
 
@@ -44,17 +45,17 @@ I also hope to find a supportive community where I can learn and grow both perso
 * Favorite video game/series: "Kingdom Hearts" (especially III) because of its unique blend of Disney and Final Fantasy characters and worlds.
 * Favorite anime: "Plastic Memories" because of its emotional depth and exploration of human relationships and "Chainsaw Man" because of its intense action and unique storyline.
 * Favorite music genre: Regional Mexican, especially Banda and Norteno, because of its rich cultural roots and storytelling.
-* One of My favorite songs: "Linger" by The Cranberries because of its haunting melody and emotional lyrics.
+* One of My favorite songs: "Dear Mama" by 2Pac because I can relate to my mother and her upbringing coming to America from Mexico.
 * Favorite book: "The Alchemist" by Paulo Coelho, as it inspires me to follow my dreams and listen to my heart.
 * Favorite quote: "Simply Simplistic" by my friend because it reminds me to appreciate the simple things in life and not overcomplicate matters.
 * Favorite color: Black, as it represents elegance and simplicity.
 * Favorite food: Chinese food with fried rice and teriyaki chicken, as I love the combination of flavors and textures.
 * Favorite drink: Sparkling Water, as it is refreshing and hydrating.
-* Favorite movie: "Blade Runner 2049" because of its visuals and themes.
+* Favorite movie: "Blade Runner 2049" and "Drive" because of the experience.
 * Favorite season: Winter, as I enjoy the cooler weather.
 * Favorite animal: Cats, as I find them independent and affectionate.
-* Favorite subject besides computers: Psychology, as I am fascinated by the human mind and behavior.
-* Favorite sport: Soccer, although I don't play it. I enjoy watching it and following major tournaments as much as my father.
+* Favorite subject besides computers: Psychology and Film, as I am fascinated by the human mind and movies.
+* Favorite sport: Soccer. although I don't play it. I enjoy watching it and following major tournaments as much as my father.
 * Favorite place to visit: Japan, as I am intrigued by its culture and technology.
 
 ---

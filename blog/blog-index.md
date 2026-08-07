@@ -56,3 +56,7 @@ description: View all blog posts here
 ## [Growing Up](./growing-up.html) - *Written on January 14, 2026*
 ## [The Fall Off](./the-fall-off.html) - *Written on January 15, 2026*
 ## [fonzi update #2](./fonzi-update-2.html) - *Written on February 23, 2026*
+## [My brother got married!](./brother-marriage.md) - *Written on May 23, 2026*
+## [Men's Mental Health Month 2026](./mens-mental-health-month-2026.md) - *Written on June 4, 2026*
+## [My Discord Server](./my-discord-server.md) - *Written on July 27, 2026*
+## [I left Roblox](./i-left-roblox.md) - *Written on August 5, 2026*
