@@ -1,4 +1,6 @@
 title: fonzi
 description: The place for all of fonzi!
 theme: jekyll-theme-minimal
-logo: https://images.guns.lol/25aa02135241af0c08c88835fb24e50831d27718/eNAF5Prh.jpg
+logo: 
+  image: /assets/images/logo.png
+  alt: fonzi logo

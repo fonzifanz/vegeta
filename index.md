@@ -25,25 +25,25 @@ I am born autistic and I have a passion for living the life God sacrificed for m
 ---
 
 **My Hobbies & Interests:**  
-* Listening to music (lots of it)
-* Exploring the outside world (nature walks)
-* Playing video games (especially immersive and adventure games)
+* Listening to music (Currently it's hip-hop/rap, alternative, soundtracks, and lo-fi)
+* Exploring the outside world (nature walks, late night talks, making memories)
+* Playing video games (I love the Kingdom Hearts series)
 * Learning Technology (I am currently learning Minecraft server management!)
 * Drawing (I am not very good at it, but I enjoy it. I like to draw characters from my favorite video games and media. It's been a good while I picked up either the pencil or tablet)
 * Spending time with family and friends (I value quality time and creating memories with loved ones)
-* Watching anime (I started my anime journey as of January 16, 2026)
+* Watching anime (I started my anime journey as of January 16, 2026. I'm starting on watching series first, then films)
 
 ---
 
 **What I'm Looking For Connecting with Others:**  
-I'm looking to connect with others who share similar interests, engage in meaningful conversations, and maybe even collaborate on projects or share knowledge about technology.  
+I'm looking to connect with others who share similar interests, engage in meaningful conversations, and maybe even collaborate on projects or share knowledge about technology.
 I also hope to find a supportive community where I can learn and grow both personally and professionally.
 
 ---
 
 **My Favorites:**  
 * Favorite video game/series: "Kingdom Hearts" (especially III) because of its unique blend of Disney and Final Fantasy characters and worlds.
-* Favorite anime: "Plastic Memories" because of its emotional depth and exploration of human relationships and "Chainsaw Man" because of its intense action and unique storyline.
+* Favorite anime: "Plastic Memories" because of its emotional depth and exploration of human relationships. "Chainsaw Man" is also a favorite because of its intense action and unique storyline.
 * Favorite music genre: Regional Mexican, especially Banda and Norteno, because of its rich cultural roots and storytelling.
 * One of My favorite songs: "Dear Mama" by 2Pac because I can relate to my mother and her upbringing coming to America from Mexico.
 * Favorite book: "The Alchemist" by Paulo Coelho, as it inspires me to follow my dreams and listen to my heart.

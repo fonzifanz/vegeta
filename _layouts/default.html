@@ -18,9 +18,9 @@
       <header>
         <h1><a href="https://fonzi.vercel.app/">{{ site.title }}</a></h1>
 
-        {% assign logo_url = site.logo | default: "https://images.guns.lol/25aa02135241af0c08c88835fb24e50831d27718/eNAF5Prh.jpg" %}
+        {% assign logo_url = site.logo.image | default: "/assets/images/logo.png" %}
         {% if logo_url %}
-          <img src="{{ logo_url }}" alt="Site logo" />
+          <img src="{{ logo_url }}" alt="{{ site.logo.alt | default: "Site logo" }}" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
